@@ -1,4 +1,4 @@
-# power-systems-interconnection-study
+# Power Systems Interconnection Study
 
 ## Curated Python projects for power-systems interconnection analysis
 
